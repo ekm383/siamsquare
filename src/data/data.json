@@ -1,0 +1,15 @@
+[
+  {
+    "restaurant-name": "siam square waikiki",
+    "intro": "Authentic Thai Cuisine served in the heart of Waikiki! Available for takeout, dine-in and delivery! Waikiki's Best Thai Restaurant!",
+    "copyright": "Copyright 2020 Siam Square Hawaii",
+    "logo": "../images/icon.png",
+    "hours": ["Daily 12:00pm - 8:00pm"],
+    "phone": "(808) 923-5320",
+    "street": "408 Lewers St #200",
+    "city": "Honolulu, Hi 96815",
+    "facebook": "https://www.facebook.com/SiamSquareWaikiki/?rf=113491738683662",
+    "instagram": "https://www.yelp.com/biz/siam-square-honolulu?sort_by=date_asc",
+    "menu": "https://www.grindztogo.com/single.php/order/restaurant/siam-square/47?takeout=1"
+  }
+]
